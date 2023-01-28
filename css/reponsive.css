@@ -1,0 +1,242 @@
+@media screen and (max-width: 576px) {
+  /* header */
+  #header {
+    height: auto;
+    padding: 15px 0;
+  }
+  #header.nav-fixed {
+    height: auto;
+  }
+  #header .navbar-nav .nav-item .theme-button {
+    margin-left: 0;
+  }
+  /* carousel */
+  #carousel .right h3 {
+    font-size: 30px;
+  }
+  #carousel .right p {
+    font-size: 15px;
+    margin: 10px;
+  }
+  /* professional */
+  #professional .title h3 {
+    font-size: 30px;
+  }
+  #professional .card {
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  /* about */
+  #about .theme-button {
+    margin-bottom: 10px;
+  }
+  #about .bottom .card {
+    margin-bottom: 10px;
+  }
+  /* Explore */
+  #explore .card {
+    margin-bottom: 20px;
+  }
+  #explore .title h3 {
+    font-size: 30px;
+  }
+  /* General */
+  #general .title h3 {
+    font-size: 30px;
+  }
+  #general .question {
+    margin: 20px 0;
+  }
+  /* Projects */
+  #projects .title h3 {
+    font-size: 30px;
+  }
+  #projects .main ul {
+    border: none;
+  }
+  #projects .main .tab-content h3 {
+    font-size: 20px;
+  }
+  #projects .main .btn-outline-primary {
+    margin-bottom: 20px;
+  }
+  #projects .main ul li a {
+    font-size: 18px;
+    max-width: 90px;
+    padding: 0;
+    margin: auto;
+  }
+  /* testimonial */
+  #testimonial .title h3 {
+    font-size: 30px;
+  }
+  #testimonial .main .item {
+    flex-wrap: wrap;
+  }
+  #testimonial .main .right {
+    padding: 0;
+  }
+  #testimonial .main .right p {
+    text-indent: 40px;
+  }
+  /* community */
+  #community .main h3 {
+    font-size: 30px;
+  }
+  #community .main .theme-button{
+    margin-bottom: 20px;
+  }
+  /* footer */
+  #footer .form{
+    padding: 5px;
+  }
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 100%;
+  }
+  /* header */
+  #header {
+    height: auto;
+    padding: 15px 0;
+  }
+  #header.nav-fixed {
+    height: auto;
+  }
+  #header .navbar-nav .nav-item .theme-button {
+    margin-left: 0;
+  }
+  /* professional */
+  #professional .card {
+    margin-bottom: 20px;
+  }
+  /* about */
+  #about .theme-button {
+    margin-bottom: 10px;
+  }
+  #about .bottom .card {
+    margin-bottom: 10px;
+  }
+  /* Explore */
+  #explore .card {
+    margin-bottom: 20px;
+  }
+  /* General */
+  #general .question {
+    margin: 20px 0;
+  }
+  /* Projects */
+  #projects .main .btn-outline-primary {
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 100%;
+  }
+  /* header */
+  #header {
+    height: 90px;
+  }
+  #header.nav-fixed {
+    height: 70px;
+  }
+  #header .navbar-nav .nav-item .nav-link {
+    padding: 0 10px;
+  }
+  #header .navbar-nav .nav-item .theme-button {
+    margin-left: 0;
+    padding: 15px;
+  }
+  /* carousel */
+  #carousel .right h3 {
+    font-size: 40px;
+  }
+  /* professional */
+  #professional .title h3 {
+    font-size: 40px;
+  }
+  /* about */
+  #about .theme-button {
+    margin-bottom: 0;
+  }
+  #about .bottom .card {
+    margin-bottom: 0;
+  }
+  /* Explore */
+  #explore .card {
+    margin-bottom: 0;
+  }
+  #explore .title h3 {
+    font-size: 40px;
+  }
+  /* General */
+  #general .title h3 {
+    font-size: 40px;
+  }
+  #general .question {
+    margin: 0 0 15px 0;
+  }
+  /* Projects */
+  #projects .title h3 {
+    font-size: 40px;
+  }
+  #projects .main .btn-outline-primary {
+    margin-bottom: 0;
+  }
+  /* testimonial */
+  #testimonial .title h3 {
+    font-size: 40px;
+  }
+  /* community */
+  #community .main h3 {
+    font-size: 40px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1200px;
+  }
+  /* header */
+  #header .navbar-nav .nav-item .nav-link {
+    padding: 0 15px;
+  }
+  #header .navbar-nav .nav-item .theme-button {
+    margin-left: 40px;
+    padding: 15px 30px;
+  }
+  /* carousel */
+  #carousel .right h3 {
+    font-size: 50px;
+  }
+  /* professional */
+  #professional .title h3 {
+    font-size: 50px;
+  }
+  /* Explore */
+  #explore .title h3 {
+    font-size: 50px;
+  }
+  /* General */
+  #general .title h3 {
+    font-size: 50px;
+  }
+  #general .question {
+    margin: 0 0 15px 50px;
+  }
+  /* Projects */
+  #projects .title h3 {
+    font-size: 50px;
+  }
+  /* testimonial */
+  #testimonial .title h3 {
+    font-size: 50px;
+  }
+  /* community */
+  #community .main h3 {
+    font-size: 50px;
+  }
+}
